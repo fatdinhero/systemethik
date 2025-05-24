@@ -1,0 +1,36 @@
+{
+  "title": "Systemethik für die digitale Zivilisation",
+  "upload_type": "publication",
+  "publication_type": "thesis",
+  "creators": [
+    {
+      "name": "Dinç, Fatih",
+      "affiliation": "Independent Researcher in Ethics and Digital Transformation, Cologne, Germany",
+      "orcid": "https://orcid.org/0000-0000-0000-0000"
+    }
+  ],
+  "description": "Die Dissertation entwickelt eine Systemethik für die digitale Zivilisation als normative Grundlage für die ethische Gestaltung digitaler Technologien. Sie basiert auf dem Human Moral Core Protocol (HMCP) und verbindet systemische Perspektiven mit konkreten ethischen Prinzipien. Ziel ist die praktische Operationalisierung ethischer Werte wie Würde, Wahrheit, Verantwortung und Resonanz.",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "Systemethik",
+    "Digitale Zivilisation",
+    "Human Moral Core Protocol",
+    "Ethik der Technologie",
+    "Künstliche Intelligenz",
+    "Datenwürde",
+    "Digitale Governance",
+    "kollektive Intelligenz",
+    "algorithmische Verantwortung",
+    "Technoethik"
+  ],
+  "language": "deu",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://doi.org/10.5281/zenodo.15505425",
+      "scheme": "doi"
+    }
+  ],
+  "access_right": "open",
+  "notes": "Dissertation (Fatih Dinç, 2025): Systemethik für die digitale Zivilisation / System Ethics for the Digital Civilization"
+}
