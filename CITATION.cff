@@ -1,20 +1,12 @@
-
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "Wenn Sie diese Arbeit verwenden, zitieren Sie bitte wie unten angegeben."
 title: "Systemethik für die digitale Zivilisation"
 authors:
   - family-names: "Dinç"
     given-names: "Fatih"
     affiliation: "Independent Researcher in Ethics and Digital Transformation, Cologne, Germany"
-    orcid: "https://orcid.org/0000-0000-0000-0000"  # Optional: ersetzen, falls vorhanden
+    orcid: "https://orcid.org/0000-0000-0000-0000"
 date-released: 2025-05-24
 doi: "10.5281/zenodo.15505425"
-license: "CC-BY-NC-4.0"
 version: "1.0"
 url: "https://github.com/fatdinhero/systemethik-dissertation-dinc-2025"
-type: "thesis"
-abstract: >
-  Die Dissertation entwickelt eine Systemethik für die digitale Zivilisation als normative Grundlage 
-  für die ethische Gestaltung digitaler Technologien. Sie basiert auf dem Human Moral Core Protocol (HMCP) 
-  und verbindet systemische Perspektiven mit konkreten ethischen Prinzipien. Ziel ist die praktische 
-  Operationalisierung ethischer Werte wie Würde, Wahrheit, Verantwortung und Resonanz.
