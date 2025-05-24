@@ -1,6 +1,7 @@
 # Dissertation (Fatih Dinç, 2025): Systemethik für die digitale Zivilisation / System Ethics for the Digital Civilization
 
-**DOI:** [10.5281/zenodo.15505425](https://doi.org/10.5281/zenodo.15505425)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15504862.svg)](https://doi.org/10.5281/zenodo.15504862)
+ 
 **Lizenz:** Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)  
 **Autor:** Fatih Dinç  
 **Affiliation:** Independent Researcher in Ethics and Digital Transformation, Cologne, Germany
